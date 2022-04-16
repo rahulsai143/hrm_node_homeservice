@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rahulsai143/hrm_node_homeservice/issues"
   },
-  "homepage": "https://github.com/rahulsai143/hrm_node_homeservice#readme"
+  "homepage": "https://github.com/rahulsai143/hrm_node_homeservice#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
