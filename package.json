@@ -1,0 +1,19 @@
+{
+  "name": "hrm_node_homeservice",
+  "version": "1.0.0",
+  "description": "Human Resource Management Backend Node Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsai143/hrm_node_homeservice.git"
+  },
+  "author": "rahulreddyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulsai143/hrm_node_homeservice/issues"
+  },
+  "homepage": "https://github.com/rahulsai143/hrm_node_homeservice#readme"
+}
